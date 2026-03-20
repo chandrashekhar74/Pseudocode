@@ -1,3 +1,14 @@
+/*
+
+DECLARE x:INTEGER
+READ x
+IF x>=5  THEN
+PRINT "x is greater than or equal to 5"
+END IF
+
+*/
+
+
 import java.util.*;
 public class GreaterThan {
     public static void main(String[] args) {

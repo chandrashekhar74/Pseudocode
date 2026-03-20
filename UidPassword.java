@@ -1,3 +1,19 @@
+/*
+
+DECLARE uid:STRING
+DECLARE pass:STRING
+READ uid,pass
+IF uid="TIT" THEN
+IF pass="123" THEN
+PRINT "Welcome"
+ELSE
+PRINT "Invalid Password"
+END IF
+ELSE
+PRINT "Invalid uid"
+END IF
+
+*/
 import java.util.*;
 public class UidPassword {
     public static void main(String[] args) {

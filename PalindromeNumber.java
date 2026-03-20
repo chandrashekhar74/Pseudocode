@@ -1,5 +1,25 @@
+/*
 
-// 151==(Reverse(151))
+151==(Reverse(151))
+DECLARE n:INTEGER
+DECLARE num:INTEGER
+DECLARE b:INTEGER
+DECLARE a:INTEGER
+SET b:=0
+READ num
+SET n:=num
+WHILE num>0
+a:=num MOD 10
+b:=b*10+a
+num:=num/10
+END WHILE
+IF n==b THEN
+PRINT "Palindrome"
+ELSE
+PRINT "Not Palindrome"
+END IF
+
+ */
 import java.util.*;
 public class PalindromeNumber {
     public static void main(String[] args) {

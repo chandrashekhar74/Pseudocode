@@ -1,3 +1,14 @@
+/*
+
+DECLARE num:INTEGER
+READ num
+IF num MOD 2 == 0 THEN
+PRINT "Even"
+ELSE
+PRINT "Odd"
+END IF
+
+ */
 import java.util.*;
 public class EvenOdd {
     public static void main(String[] args) {

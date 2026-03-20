@@ -1,3 +1,31 @@
+/*
+
+DECLARE cn:INTEGER
+DECLARE cd:INTEGER
+DECLARE pm:INTEGER
+DECLARE dbms:INTEGER
+DECLARE ml:INTEGER
+READ cn,cd,pm,dbms,ml
+DECLARE per:REAL
+per:=(cn+cd+pm+dbms+ml)/5
+IF per>=90 THEN
+PRINT "A+"
+ELSE IF per>=80 THEN
+PRINT "A"
+ELSE IF per>=70 THEN
+PRINT "B+"
+ELSE IF per>=60 THEN
+PRINT "B"
+ELSE IF per>=50 THEN
+PRINT "C"
+ELSE IF per>=40 THEN
+PRINT "D"
+ELSE
+PRINT "F"
+END IF
+
+
+*/
 import java.util.*;
 public class Grading {
     public static void main(String[] args) {
