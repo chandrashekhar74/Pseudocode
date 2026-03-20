@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e09c7c4-2f07-4b95-824b-f97c40c8ccd6" name="Changes" comment="Added new pseudocode files" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;chandrashekhar74&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/chandrashekhar74/Pseudocode.git&quot;,
+    &quot;accountId&quot;: &quot;d7ccf6eb-7445-4824-af0f-0d711ee03e46&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3AYy7iBOpF2dsyNTInPNahIrx8I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AbsoluteValue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AdditionOfMatrices.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AreaOfCircle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AreaOfTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArmstrongNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Coordinates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountEvenOddIn2DArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeclarationOf2DArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeclarationOfArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FunctionAdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Grading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GreaterThan.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GreatestOfTwoNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxElementOfArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinElementOfArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PositiveNegativeNo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Procedure.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProcedureAdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProcedureCube.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProcedureMax.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProcedureMinOfThree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProcedureSimInt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question16.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question17.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question18.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question19.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question20.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question21.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question22.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question23.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question24.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question25.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question26.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question27.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question28.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOf2DArrayElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfArrayElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UidPassword.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus/OneDrive/Desktop/Pseudocode AN&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/OneDrive/Desktop/Pseudocode AN/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Question8" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../../Program Files/Java/jdk-23" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Question8" />
+      <module name="Pseudocode AN" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e09c7c4-2f07-4b95-824b-f97c40c8ccd6" name="Changes" comment="" />
+      <created>1772783632200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772783632200</updated>
+    </task>
+    <task id="LOCAL-00001" summary="yes">
+      <option name="closed" value="true" />
+      <created>1773087808863</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1773087808863</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added new pseudocode files">
+      <option name="closed" value="true" />
+      <created>1774023196081</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774023196081</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="not required" />
+    <MESSAGE value="yes" />
+    <MESSAGE value="Added new pseudocode files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new pseudocode files" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
